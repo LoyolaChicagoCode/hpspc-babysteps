@@ -4,9 +4,10 @@ Thumbs.db
 .DS_Store
 obj/
 build/
+project/
 target/
 *.pyc
-*.exe
+*.class
 *.exe
 *.mdb
 *.pdb
